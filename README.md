@@ -131,14 +131,14 @@ lib/
 
 ## 🎨 لقطات الشاشة / Screenshots
 
-<img width="1419" height="2796" alt="Screenshot_2025-09-15-00-15-36-498_com example flicked-portrait" src="https://github.com/user-attachments/assets/cf13a035-4862-41a8-a791-c40a38b56c90" />
-<img width="1419" height="2796" alt="Screenshot_2025-09-15-00-15-40-105_com example flicked-portrait" src="https://github.com/user-attachments/assets/80e16025-2004-492c-a366-5f900b35c1e6" />
-<img width="1419" height="2796" alt="Screenshot_2025-09-15-00-13-06-372_com example flicked-portrait" src="https://github.com/user-attachments/assets/2c3c931c-aee2-4e23-9d03-a245d53792bc" />
-<img width="1419" height="2796" alt="Screenshot_2025-09-15-00-14-11-892_com example flicked-portrait" src="https://github.com/user-attachments/assets/b0840be3-b068-4e70-adcf-9480be9ac3e4" />
-<img width="1419" height="2796" alt="Screenshot_2025-09-15-00-12-51-072_com example flicked-portrait" src="https://github.com/user-attachments/assets/49af7993-94c4-441b-9bc8-adba10da3291" />
-<img width="1419" height="2796" alt="Screenshot_2025-09-15-00-15-23-784_com example flicked-portrait" src="https://github.com/user-attachments/assets/c3d0379a-2ef2-4c2e-bee6-085059259afe" />
-<img width="1419" height="2796" alt="Screenshot_2025-09-15-00-14-48-612_com example flicked-portrait" src="https://github.com/user-attachments/assets/27be3cc4-1abb-42f3-bd99-185f28d43fd2" />
-<img width="1857" height="3096" alt="Screenshot_2025-09-15-00-14-48-612_com example flicked-left" src="https://github.com/user-attachments/assets/64b37a1e-858f-493e-8e20-3a873195ebcf" />
+<img width="500" height="800" alt="Screenshot_2025-09-15-00-15-36-498_com example flicked-portrait" src="https://github.com/user-attachments/assets/cf13a035-4862-41a8-a791-c40a38b56c90" />
+<img width="500" height="800" alt="Screenshot_2025-09-15-00-15-40-105_com example flicked-portrait" src="https://github.com/user-attachments/assets/80e16025-2004-492c-a366-5f900b35c1e6" />
+<img width="500" height="800" alt="Screenshot_2025-09-15-00-13-06-372_com example flicked-portrait" src="https://github.com/user-attachments/assets/2c3c931c-aee2-4e23-9d03-a245d53792bc" />
+<img width="500" height="800" alt="Screenshot_2025-09-15-00-14-11-892_com example flicked-portrait" src="https://github.com/user-attachments/assets/b0840be3-b068-4e70-adcf-9480be9ac3e4" />
+<img width="500" height="800" alt="Screenshot_2025-09-15-00-12-51-072_com example flicked-portrait" src="https://github.com/user-attachments/assets/49af7993-94c4-441b-9bc8-adba10da3291" />
+<img width="500" height="800" alt="Screenshot_2025-09-15-00-15-23-784_com example flicked-portrait" src="https://github.com/user-attachments/assets/c3d0379a-2ef2-4c2e-bee6-085059259afe" />
+<img width="500" height="800" alt="Screenshot_2025-09-15-00-14-48-612_com example flicked-portrait" src="https://github.com/user-attachments/assets/27be3cc4-1abb-42f3-bd99-185f28d43fd2" />
+<img width="500" height="800" alt="Screenshot_2025-09-15-00-14-48-612_com example flicked-left" src="https://github.com/user-attachments/assets/64b37a1e-858f-493e-8e20-3a873195ebcf" />
 
 ## 🚀 المميزات التقنية / Technical Features
 ### Architecture
