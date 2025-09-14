@@ -130,14 +130,19 @@ lib/
 ## 🎨 لقطات الشاشة / Screenshots
 
 <div align="center">
-  <img src="c:/Users/mizo2/OneDrive/Desktop/dd/Screenshot_2025-09-15-00-12-51-072_com.example.flicked.jpg" alt="Home Screen" width="200"/>
-  <img src="c:/Users/mizo2/OneDrive/Desktop/dd/Screenshot_2025-09-15-00-13-06-372_com.example.flicked.jpg" alt="Movie List" width="200"/>
-  <img src="c:/Users/mizo2/OneDrive/Desktop/dd/Screenshot_2025-09-15-00-14-06-951_com.example.flicked.jpg" alt="Movie Details" width="200"/>
-  <img src="c:/Users/mizo2/OneDrive/Desktop/dd/Screenshot_2025-09-15-00-14-11-892_com.example.flicked.jpg" alt="Search" width="200"/>
+  <img src="https://github.com/user-attachments/assets/a5523a48-a33f-4ff5-b2de-abb6a5c1c0e2" alt="Home Screen" width="200"/>
+  <img src="https://github.com/user-attachments/assets/1cac81c8-6d5b-4759-9086-de94a1a7d3dc" alt="Movie List" width="200"/>
+  <img src="https://github.com/user-attachments/assets/5babdb83-f314-40b0-9e66-7d9f16cc3208" alt="Movie Details" width="200"/>
+  <img src="https://github.com/user-attachments/assets/1d9bce4f-42a5-4cdf-9e67-53727fd3c784" alt="Search" width="200"/>
+   <img src="https://github.com/user-attachments/assets/9c5531c8-c63b-416b-b1dd-3f7f51fc4c14" alt="Home Screen" width="200"/>
+    <img src="https://github.com/user-attachments/assets/fde326e8-cad8-4416-8ed3-fd0826c76403" alt="Home Screen" width="200"/>
+     <img src="https://github.com/user-attachments/assets/67c1e07a-ca2b-4493-b0f1-977f4d8b51ed" alt="Home Screen" width="200"/>
+      <img src="https://github.com/user-attachments/assets/3190a050-19ba-48fe-9db0-0149cf19b540" alt="Home Screen" width="200"/>
+       <img src="https://github.com/user-attachments/assets/18152a45-bd2d-4b68-9439-31fa75b9ad77" alt="Home Screen" width="200"/>
+        <img src="https://github.com/user-attachments/assets/cf1a5be9-d512-489d-be39-6168f2b1c081" alt="Home Screen" width="200"/>
 </div>
 
 ## 🚀 المميزات التقنية / Technical Features
-
 ### Architecture
 - **Clean Architecture** - Separation of concerns
 - **MVVM Pattern** - Model-View-ViewModel
@@ -204,8 +209,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 المطور / Developer
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [Eng-M0ataz](https://github.com/Eng-M0ataz)
+- Email: moatazebrahim221@gmail.com
 
 ## 🙏 شكر وتقدير / Acknowledgments
 
