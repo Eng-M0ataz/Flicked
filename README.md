@@ -9,6 +9,8 @@
   [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com/ios/)
 </div>
 
+
+
 ## 📱 نظرة عامة / Overview
 
 **Flickd** هو تطبيق Flutter حديث لاكتشاف الأفلام يتيح للمستخدمين استكشاف الأفلام الشائعة والقادمة مع واجهة مستخدم جميلة وتفاعلية.
@@ -129,18 +131,14 @@ lib/
 
 ## 🎨 لقطات الشاشة / Screenshots
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/a5523a48-a33f-4ff5-b2de-abb6a5c1c0e2" alt="Home Screen" width="200"/>
-  <img src="https://github.com/user-attachments/assets/1cac81c8-6d5b-4759-9086-de94a1a7d3dc" alt="Movie List" width="200"/>
-  <img src="https://github.com/user-attachments/assets/5babdb83-f314-40b0-9e66-7d9f16cc3208" alt="Movie Details" width="200"/>
-  <img src="https://github.com/user-attachments/assets/1d9bce4f-42a5-4cdf-9e67-53727fd3c784" alt="Search" width="200"/>
-   <img src="https://github.com/user-attachments/assets/9c5531c8-c63b-416b-b1dd-3f7f51fc4c14" alt="Home Screen" width="200"/>
-    <img src="https://github.com/user-attachments/assets/fde326e8-cad8-4416-8ed3-fd0826c76403" alt="Home Screen" width="200"/>
-     <img src="https://github.com/user-attachments/assets/67c1e07a-ca2b-4493-b0f1-977f4d8b51ed" alt="Home Screen" width="200"/>
-      <img src="https://github.com/user-attachments/assets/3190a050-19ba-48fe-9db0-0149cf19b540" alt="Home Screen" width="200"/>
-       <img src="https://github.com/user-attachments/assets/18152a45-bd2d-4b68-9439-31fa75b9ad77" alt="Home Screen" width="200"/>
-        <img src="https://github.com/user-attachments/assets/cf1a5be9-d512-489d-be39-6168f2b1c081" alt="Home Screen" width="200"/>
-</div>
+<img width="1419" height="2796" alt="Screenshot_2025-09-15-00-15-36-498_com example flicked-portrait" src="https://github.com/user-attachments/assets/cf13a035-4862-41a8-a791-c40a38b56c90" />
+<img width="1419" height="2796" alt="Screenshot_2025-09-15-00-15-40-105_com example flicked-portrait" src="https://github.com/user-attachments/assets/80e16025-2004-492c-a366-5f900b35c1e6" />
+<img width="1419" height="2796" alt="Screenshot_2025-09-15-00-13-06-372_com example flicked-portrait" src="https://github.com/user-attachments/assets/2c3c931c-aee2-4e23-9d03-a245d53792bc" />
+<img width="1419" height="2796" alt="Screenshot_2025-09-15-00-14-11-892_com example flicked-portrait" src="https://github.com/user-attachments/assets/b0840be3-b068-4e70-adcf-9480be9ac3e4" />
+<img width="1419" height="2796" alt="Screenshot_2025-09-15-00-12-51-072_com example flicked-portrait" src="https://github.com/user-attachments/assets/49af7993-94c4-441b-9bc8-adba10da3291" />
+<img width="1419" height="2796" alt="Screenshot_2025-09-15-00-15-23-784_com example flicked-portrait" src="https://github.com/user-attachments/assets/c3d0379a-2ef2-4c2e-bee6-085059259afe" />
+<img width="1419" height="2796" alt="Screenshot_2025-09-15-00-14-48-612_com example flicked-portrait" src="https://github.com/user-attachments/assets/27be3cc4-1abb-42f3-bd99-185f28d43fd2" />
+<img width="1857" height="3096" alt="Screenshot_2025-09-15-00-14-48-612_com example flicked-left" src="https://github.com/user-attachments/assets/64b37a1e-858f-493e-8e20-3a873195ebcf" />
 
 ## 🚀 المميزات التقنية / Technical Features
 ### Architecture
